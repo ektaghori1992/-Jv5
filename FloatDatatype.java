@@ -1,12 +1,13 @@
 public class FloatDatatype {
     public static void main(String[] args) {
-        float E, G;
-        E = 3.44f;
-        G = 2.33f;
-        System.out.println(E + G);
-        System.out.println(E - G);
-        System.out.println(E * G);
-        System.out.println(E / G);
+        float T, R;
+        T = 3.44f;
+        R = 2.33f;
+        System.out.println(T + R);
+        System.out.println(T - R);
+        System.out.println(T * R);
+        System.out.println(T / R);
+        System.out.println("git");
 
 
 
